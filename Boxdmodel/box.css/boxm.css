@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.aa{
+background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg);
+   height: 100vh;
+   background-position: center;
+   background-size: cover;
+   text-align: center;
+}
+.aq{
+    height: 100vh;
+    background-color: rgba(92, 77, 66, 0.8);
+    opacity: 0.7;
+}
+.a1 a{
+    color: #fff;
+float: left;
+font-size: 20px;
+margin-top: 20px;
+padding: 0px 0px 0px 300px ;
+}
+.a2 a{
+    color: #fff;
+    float: right;
+    margin: 20px 29px 0px -269px;
+    padding: 0px 274px 0px 0px;
+}
+.a3 h1{
+    color: #fff;
+    width: 44%;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 100;
+    margin-left: 29%;
+    padding: 15% 0% 2%;
+}
+.a3 hr{
+    width: 60px;
+    text-align: center;
+    margin-left: 49%;
+    height: 1.7px;
+    background-color: #f4623a;
+    border: #f4623a;
+    opacity: 0.7;
+}
+.a4{
+    color: #fff;
+    text-align: center;
+}
+.a4 p{
+    font-size: 1.4rem;
+    opacity: 0.6;
+    width: 45%;
+    font-weight: 900;
+    padding-bottom: 30px;
+    margin: 10px 0px 50px;
+    margin-left: 29%;
+    line-height: 1.5;
+}
+.a4 a{
+    color: #fff;
+font-size: 15px;
+margin-left: 1%;
+padding: 20px 36px;
+border-radius: 50px;
+background-color: #db3507;
+}
+.bb{
+    height: 40vh;
+    background-position: center;
+   background-size: cover;
+   text-align: center;
+   background-color: #fa582c;
+   opacity: 0.9;
+}
+.bb h1{
+    font-size: 3rem;
+    padding-top: 100px;
+    margin-bottom: 20px;
+color: #fff;
+}
+.bb hr{
+    width: 60px;
+    text-align: center;
+    margin-left: 49%;
+    height: 3px;
+    background-color: #fff;
+    border: #fff;
+    opacity: 0.9;
+}
+.bb p{
+    color: #fff;
+    font-size: 1.2rem;
+    opacity: 0.8;
+    width: 45%;
+    font-weight: 100;
+    padding-bottom: 30px;
+    margin: 10px 0px 20px;
+    margin-left: 29%;
+    line-height: 1.5;
+}
+.bb a{
+    color: #000;
+    font-size: 15px;
+    font-weight: 900;
+    margin-left: 1%;
+    padding: 20px 36px;
+    border-radius: 50px;
+    background-color: #fff;
+}
+.cc{
+    background-color: #fff;
+    height: 40vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.cc h1{
+    font-size: 2rem;
+    padding-top: 100px;
+    margin-bottom: 20px;
+}
+.cc hr{
+    width: 60px;
+    text-align: center;
+    margin-left: 49%;
+    height: 3px;
+    background-color: #fa582c;
+    border: #fa582c;
+    opacity: 0.9;
+}
+.dd{
+    width: 100%;
+    
+    
+}
+.d1{
+    width: 23%;
+    float: left;
+
+}
+.d2{
+    width: 23%;
+    float: left;
+    
+}
+.d3{
+    width: 23%;
+    float: left;
+}
+.d4{
+    width: 23%;
+    float: left;
+}
+.dd h1{
+    padding: 30px 0px 10px;
+}
+.dd i{
+    font-size: 30px;
+    margin: 50px 0px 0px;
+}
+.dd p{
+    width: 65%;
+    margin-left: 16%;
+    font-size: 20px;
+    margin-bottom: 150px;
+}
+.ff{
+    height: 90vh;
+    width: 100%;
+}
+.ff .f1{
+    float: left;
+    width: calc(100%/3);
+margin: -2px
+}
+.hh{
+    background-color: #212529;
+    height: 40vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.hh h1{
+    color: #fff;
+padding-top: 170px;
+margin-bottom: 40px;
+}
+.hh a{
+    color: #000;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 20px 20px;
+    border-radius: 50px;
+    background-color: #fff;
+}
+.gg{
+    height: 70vh;
+    background-position: center;
+  background-size: cover;
+  text-align: center;
+  width: 100%;
+}
+.gg h1{
+    margin: 150px 0px 20px 0px;
+
+    
+}
+.gg hr{
+    width: 60px;
+    text-align: center;
+    margin-left:  49%;
+    height: 3px;
+    background-color: #fa582c;
+    border: #fa582c;
+    opacity: 0.9;
+
+}
+.gg p{
+    margin: 30px 0px 0px 670px;
+    width: 30%;
+   color: #6c757d;
+   font-size: 16px;
+   font-weight: 300;
+}
+.g2{
+    margin: 30px 0px 5px 670px;
+     width: 30%;
+    
+}
+.g1{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 20px 5px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: 1px solid #6c757d;
+    outline-color: #db3507;
+    
+}
+.gm{
+    padding: 10px 0px 80px 5px;
+    margin: 10px 0px 40px ;
+    
+}
+.gg a{
+    width: 60%;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 20px 250px;
+    border-radius: 50px;
+    background-color: #fa582c;
+    opacity: 0.5;
+}
+.gg i {
+    font-size: 30px;
+
+}
+.gg .p1
+{
+    font-size: 20px;
+    
+}
